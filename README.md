@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wajeeha</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate software engineering student from Universiti Teknologi Malaysia (UTM)</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/wajeeha-zeeshan-392372193/](https://www.linkedin.com/in/wajeeha-zeeshan-392372193/)
 
